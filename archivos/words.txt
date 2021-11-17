@@ -1,0 +1,6 @@
+cat
+sheep
+rabbit
+dog
+tiger
+dolphin
